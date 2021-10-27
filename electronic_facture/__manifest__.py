@@ -6,7 +6,7 @@
     'currency': 'EUR',
     'license': 'AGPL-3',
     'description': """
-    this module help u make a qr code code for accounting invoice repport and pos repport
+    this module help u to make a qr code code for accounting invoice repport and pos repport
     """,
     'category': 'accounting & Pos',
     'website': '',
