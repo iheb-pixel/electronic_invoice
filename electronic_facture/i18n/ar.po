@@ -1,0 +1,230 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* electronic_facture
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e-20201117\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-02 09:28+0000\n"
+"PO-Revision-Date: 2021-08-02 09:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<span groups=\"account.group_show_line_subtotals_tax_excluded\">Amount\n"
+"                                    </span>\n"
+"                                    <span groups=\"account.group_show_line_subtotals_tax_included\">Total Price\n"
+"                                    </span>"
+msgstr "<span groups=\"account.group_show_line_subtotals_tax_excluded\">المبلغ\n"
+"                                    </span>\n"
+"                                    <span groups=\"account.group_show_line_subtotals_tax_included\">Total Price\n"
+"                                    </span>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<span>Description</span>"
+msgstr "<span>الوصف</span>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Tax ID"
+msgstr "معرفة الضريبة"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Tax"
+msgstr " معرفة الضريبة"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<span>Disc.%</span>"
+msgstr "<span>خصم %</span>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<span>Quantity</span>"
+msgstr "<span>الكمية</span>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<span>Taxes</span>"
+msgstr "<span>الضرائب</span>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<span>Unit Price</span>"
+msgstr "<span>سعر الوحدة</span>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong class=\"mr16\">Subtotal</strong>"
+msgstr "<strong class=\"mr16\">الإجمالي الفرعي</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid ""
+"<strong class=\"text-center\">Scan me with your banking app.</strong>\n"
+"\t\t\t\t\t\t\t<br/>\n"
+"\t\t\t\t\t\t\t<br/>"
+msgstr ""
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Amount Due</strong>"
+msgstr "<strong>المبلغ المستحق</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Customer Code:</strong>"
+msgstr "<strong>كود العميل:</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Incoterm: </strong>"
+msgstr ""
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Invoice Date:</strong>"
+msgstr "<strong>تاريخ الفاتورة:</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Reference:</strong>"
+msgstr "<strong>رقم الإشارة:</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Source:</strong>"
+msgstr "<strong>المصدر:</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Subtotal</strong>"
+msgstr "<strong>الإجمالي الفرعي</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "<strong>Total</strong>"
+msgstr "<strong>الإجمالي</strong>"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Cancelled Invoice"
+msgstr "فاتورة ملغاة"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator__create_uid
+msgid "Created by"
+msgstr "أنشئ بواسطة"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator__create_date
+msgid "Created on"
+msgstr "أنشئ في"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Credit Note"
+msgstr "إشعار خصم"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_account_move__display_name
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator__display_name
+msgid "Display Name"
+msgstr "الاسم المعروض"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Draft Invoice"
+msgstr "مسودة فاتورة"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_account_move__id
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator__id
+msgid "ID"
+msgstr "المُعرف"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Invoice"
+msgstr "فاتورة ضريبية"
+
+#. module: electronic_facture
+#: model:ir.model,name:electronic_facture.model_account_move
+msgid "Journal Entry"
+msgstr "قيد اليومية"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_account_move____last_update
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator____last_update
+msgid "Last Modified on"
+msgstr "آخر تعديل في"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator__write_uid
+msgid "Last Updated by"
+msgstr "آخر تحديث بواسطة"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_qr_generator__write_date
+msgid "Last Updated on"
+msgstr "آخر تحديث في"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.external_layout_standard_custom
+msgid "Logo"
+msgstr "الشعار"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.external_layout_standard_custom
+msgid ""
+"Page:\n"
+"\t\t\t\t\t<span class=\"page\"/>\n"
+"\t\t\t\t\t/\n"
+"\t\t\t\t\t<span class=\"topage\"/>"
+msgstr ""
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Paid on"
+msgstr "دفعت في"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Please use the following communication for your payment :"
+msgstr "برجاء استخدام هذا المرجع عند السداد:"
+
+#. module: electronic_facture
+#: model:ir.model.fields,field_description:electronic_facture.field_account_bank_statement_line__qr_image
+#: model:ir.model.fields,field_description:electronic_facture.field_account_move__qr_image
+#: model:ir.model.fields,field_description:electronic_facture.field_account_payment__qr_image
+msgid "QR Code"
+msgstr ""
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Vendor Bill"
+msgstr "فاتورة المورد"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "Vendor Credit Note"
+msgstr "إشعار خصم المورد"
+
+#. module: electronic_facture
+#: model_terms:ir.ui.view,arch_db:electronic_facture.custom_report_invoice_document
+msgid "on"
+msgstr "في"
+
+#. module: electronic_facture
+#: model:ir.model,name:electronic_facture.model_qr_generator
+msgid "qr.generator"
+msgstr ""

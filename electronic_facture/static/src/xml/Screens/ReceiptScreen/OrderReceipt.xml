@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+
+    <t t-extend="PosTicket">
+		<t t-jquery='.receipt-change' t-operation='after'>
+             <div><t t-esc="receipt.name" /></div>
+            <div><t t-esc="receipt.date.localestring" /></div>
+            <div class="pos-receipt-order-data">
+                <div>
+                <center><img id="ItemPreview" src="" style="width:50%; height:50%;"/></center>
+                </div>
+            </div>
+		</t>
+    </t>
+
+</templates>
